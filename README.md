@@ -1,0 +1,3 @@
+# WEMIX Dollar
+
+WEMIX$
